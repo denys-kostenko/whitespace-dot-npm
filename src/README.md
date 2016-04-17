@@ -15,5 +15,5 @@ $ npm install whitespace-dot
 From Git:
 
 ```sh
-$ npm install https://github.com/denys-kostenko/whitespace-dot-npm/tarball/master
+$ git clone https://github.com/denys-kostenko/whitespace-dot-npm
 ```
